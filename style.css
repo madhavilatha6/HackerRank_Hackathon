@@ -1,0 +1,78 @@
+h3{
+    color:violet;
+}
+.work{
+    background-color:white;
+    border-radius:25px;
+    margin:20px
+}
+
+.work .shilpa{
+    height:50%;
+    width:100%;
+  border-radius: 25px 25px 0px 0px;
+}
+.work-container{                                                                            
+    display:flex;
+    gap:20px
+}
+.work-child{
+    padding: 20px;
+}
+.img2{
+  height:100%;
+  width:70%;
+  border-radius: 0px 5px 5px 0px;
+}
+h2{
+
+    color:blueviolet;
+}
+.box1{
+    border-radius: 5px;
+    margin: 0;
+    height: 30%;
+    display:flex;
+    align-items: center;
+}
+.img3{
+
+    height:50%;
+    width:50%;
+}
+.roadmap-box{
+    width:50%;
+}
+.roadmap-text{
+    width:50%;
+    background-color:white;
+}
+.timeline {
+    border-left: 1px solid black;
+    position: relative;
+    list-style: none;
+  }
+  
+  .timeline .timeline-item {
+    position: relative;
+  }
+  
+  .timeline .timeline-item:after {
+    position: absolute;
+    display: block;
+    top: 0;
+  }
+  
+  .timeline .timeline-item:after {
+    background-color:black;
+    left: -38px;
+    border-radius: 50%;
+    height: 11px;
+    width: 11px;
+    content: "";
+  }
+
+  .timeline-box{
+    background-color: white;
+    margin: 20px 50px;
+  }
