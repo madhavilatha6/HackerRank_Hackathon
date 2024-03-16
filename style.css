@@ -148,6 +148,8 @@ button[type="submit"]:hover {
   /* opacity: 0.55; */
   margin-left: 100px;
 }
+
+
 h3{
   color:violet;
 }
@@ -225,60 +227,4 @@ h2{
 .timeline-box{
   background-color: white;
   margin: 20px 50px;
-}
-
-body{
-  background-color: #e3d9bf;
-}
-.container{
-  /* padding-left: 40px; */
-
-
-}
-.about-text{
-  padding: 20px 70px 20px 70px;
-  background-color: blueviolet;
-}
-.box3-text{
-padding-left: 50px;
-}
-.box2{
-  background-color: white;
-  border-radius: 5px;
-  margin: 10px;
-  padding: 30px 10px;
-}
-.colors1{
-  font-size: 31px;
-  padding: 15px 5px;
-}
-
-.redcolor{
-  color: red;
-}
-
-
-
-.work{
-  border-radius: 5px;
-  padding:20px;
-  margin:60px 60px 0px 0px;
-  background-color: white;
-
-
-}
-.container1{
-  display:flex;
-gap:20px
-
-}
-.flex{
-  display: flex;
-  gap: 50px;
-  width:106%;
-  background-color: white;
-  margin-left: -65px;
-}
-.col-sm box2{
-  padding: 30px;
 }
